@@ -46,6 +46,7 @@ header {
 
 .gap {
     gap: 20px;
+    flex-direction: row;
 }
 
 .hero {
